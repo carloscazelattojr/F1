@@ -1,5 +1,5 @@
 # <div align="center">
-  <h1 align="center">Nike App</h1>
+  <h1 align="center">F1</h1>
 </div>
 <p align="center">
       F1 - Aplicativo para acompanhar corridas da Fórmula 1
